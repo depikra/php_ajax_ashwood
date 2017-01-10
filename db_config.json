@@ -1,0 +1,7 @@
+{
+  "_comment": "Please, rename this file as 'db_config_local.json' and fill it with your data",
+  "host": "localhost",
+  "user": "admin",
+  "password": "password",
+  "db_name": "database"
+}
